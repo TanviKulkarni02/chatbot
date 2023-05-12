@@ -1,0 +1,42 @@
+h1{
+    font-size:50px;
+    text-align: center;
+    color: lavender;
+    margin-top: 50px;
+    padding: 25px;
+}
+.set{
+    display: flexbox;
+    text-align: center;
+    padding: 20px;
+    margin-top: 34px;
+}
+  
+    
+.pressed{
+box-shadow: o 3px 4px 0 black;
+opacity: 0.5;
+}
+
+.drumbutton{
+    margin: auto;
+    padding: 19px;
+    margin: 20px;
+    background-color: lavender;
+    border: 10px solid lavender;
+    border-width: 12px;
+    border-radius: 10px;
+    color: black;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 28px;
+}
+body{
+    background-color: rgba(71, 18, 141, 0.849);
+}
+footer{
+   margin-top: 90px;
+    padding: 50px;
+    color: rgb(161, 161, 206);
+    font-size: 19px;
+}
